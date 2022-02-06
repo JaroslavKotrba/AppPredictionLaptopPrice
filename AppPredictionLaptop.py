@@ -37,9 +37,7 @@ def main():
 
     st.sidebar.subheader("More info:"); 
     st.sidebar.write(":computer: https://jaroslavkotrba.com")
-
-    st.sidebar.markdown("""---""")
-
+    
     st.sidebar.write("Copyright © 2022")
 
     #st.sidebar.write(":star:"*5)
