@@ -44,7 +44,7 @@ def main():
 
     if choice == "Home":
         # Title
-        st.markdown("<h1 style='text-align: center; color: white;'>Laptop Price Predictor</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: steelblue;'>Laptop Price Predictor</h1>", unsafe_allow_html=True)
 
         # Image
         from PIL import Image
@@ -154,7 +154,7 @@ def main():
     
     elif choice == "Visualisation":
         # Title
-        st.markdown("<h1 style='text-align: center; color: white;'>Laptop Data Visualisation</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: #DC143C;'>Laptop Data Visualisation</h1>", unsafe_allow_html=True)
 
         st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
@@ -226,7 +226,7 @@ def main():
     
     elif choice == "Model described":
         # Title
-        st.markdown("<h1 style='text-align: center; color: white;'>Laptop Model Described</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: dodgerblue;'>Laptop Model Described</h1>", unsafe_allow_html=True)
 
         st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
@@ -265,7 +265,7 @@ def main():
 
     elif choice == "About":
         # Title
-        st.markdown("<h1 style='text-align: center; color: white;'>Laptop Price About</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: #DC143C;'>Laptop Price About</h1>", unsafe_allow_html=True)
         st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
         st.write("I created this app to be able to predict price of a laptop that I can configure on my own. To know a new laptop price according all models on the market is essential, just wanted to make sure that the price I am going to pay will be correct :)")
