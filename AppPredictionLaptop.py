@@ -226,7 +226,7 @@ def main():
     
     elif choice == "Model described":
         # Title
-        st.markdown("<h1 style='text-align: center; color: dodgerblue;'>Laptop Model Described</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: steelblue;'>Laptop Model Described</h1>", unsafe_allow_html=True)
 
         st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
