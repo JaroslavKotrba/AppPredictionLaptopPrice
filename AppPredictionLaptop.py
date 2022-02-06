@@ -51,7 +51,7 @@ def main():
         image = Image.open('./pc.png')
         st.image(image, caption='Laptop Price Prediction with AI', use_column_width=True)
         
-        st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
+        st.write("<p style='text-align: center; color: #9fc2e0;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
         # Brand
         default_company = list(data['Company'].unique()).index('Apple')
@@ -228,7 +228,7 @@ def main():
         # Title
         st.markdown("<h1 style='text-align: center; color: steelblue;'>Laptop Model Described</h1>", unsafe_allow_html=True)
 
-        st.write("<p style='text-align: center; color: pink;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
+        st.write("<p style='text-align: center; color: #9fc2e0;'>Predict the price of a laptop that would suit your needs the best.</p>", unsafe_allow_html=True)
 
         st.write("A random forest is a machine learning technique that's used to solve regression and classification problems.")
         st.write("Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. Ensemble learning method is a technique that combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model.")
