@@ -5,3 +5,4 @@ numpy
 pillow
 streamlit_lottie
 plotly
+scikit-learn
