@@ -1,8 +1,7 @@
 streamlit
-sklearn
+scikit-learn
 pandas
 numpy
 pillow
 streamlit_lottie
 plotly
-scikit-learn
