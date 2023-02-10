@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run AppPredictionLaptop.py
+echo PORT $PORT web: sh setup.sh && streamlit run --server.port $PORT AppPredictionLaptop.py
