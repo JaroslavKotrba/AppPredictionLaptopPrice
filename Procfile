@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run AppPredictionEmotion.py
+web: sh setup.sh && streamlit run AppPredictionLaptop.py
