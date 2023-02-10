@@ -1,5 +1,5 @@
 
-# cd C:\Users\HP\OneDrive\Documents\Python Anaconda\Streamlit_Laptop_App
+# cd "/Users/HP/OneDrive/Documents/Python Anaconda/Streamlit_Laptop_App"
 # streamlit run AppPredictionLaptop.py
 
 # API: https://docs.streamlit.io/library/api-reference
