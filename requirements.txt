@@ -1,7 +1,7 @@
-streamlit == 1.9.2
+streamlit
 scikit-learn == 0.0
-pandas == 1.4.1
+pandas
 numpy
-pillow == 9.0.1
-streamlit_lottie == 0.0.3
-plotly == 5.6.0
+pillow
+streamlit_lottie
+plotly
