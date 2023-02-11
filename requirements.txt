@@ -1,5 +1,5 @@
 streamlit
-scikit-learn == 0.0
+scikit-learn
 pandas
 numpy
 pillow
